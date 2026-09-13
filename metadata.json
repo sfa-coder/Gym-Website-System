@@ -1,0 +1,6 @@
+{
+  "name": "Robust Muscle",
+  "description": "Robust Muscle gym in Gulshan-e-Iqbal, Karachi. High-performance strength training, Olympic barbells, combat conditioning, and certified coaching led by Founder & Head Coach Raveel Khan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
